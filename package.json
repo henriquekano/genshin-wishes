@@ -1,0 +1,8 @@
+{
+  "name": "genshin-wishes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:henriquekano/genshin-wishes.git",
+  "author": "henriquekano <henriquekano@hotmail.com>",
+  "license": "MIT"
+}
